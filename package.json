@@ -1,0 +1,9 @@
+{
+  "name": "ext-actions-common",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "repository": "git@github.com:WeSyncVideo/ext-actions-common.git",
+  "author": "Brad <bradpf@outlook.com>",
+  "license": "GPL-3.0",
+  "private": false
+}
